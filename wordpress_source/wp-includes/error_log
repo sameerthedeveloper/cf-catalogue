@@ -1,0 +1,20 @@
+[27-Dec-2024 06:02:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/jfcmhgfvncje/public_html/wp-includes/update.php:1080
+Stack trace:
+#0 {main}
+  thrown in /home/jfcmhgfvncje/public_html/wp-includes/update.php on line 1080
+[30-Apr-2025 16:48:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/jfcmhgfvncje/public_html/wp-includes/update.php:1080
+Stack trace:
+#0 {main}
+  thrown in /home/jfcmhgfvncje/public_html/wp-includes/update.php on line 1080
+[14-Jan-2026 00:51:09 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/jfcmhgfvncje/public_html/wp-includes/functions.php on line 8
+[14-Jan-2026 00:51:09 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/jfcmhgfvncje/public_html/wp-includes/functions.php on line 8
+[14-Jan-2026 00:51:09 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/jfcmhgfvncje/public_html/wp-includes/functions.php on line 8
+[14-Jan-2026 00:51:09 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/jfcmhgfvncje/public_html/wp-includes/functions.php on line 8
+[14-Jan-2026 00:51:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/jfcmhgfvncje/public_html/wp-includes/update.php:1080
+Stack trace:
+#0 {main}
+  thrown in /home/jfcmhgfvncje/public_html/wp-includes/update.php on line 1080
+[14-Jan-2026 00:51:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home/jfcmhgfvncje/public_html/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/jfcmhgfvncje/public_html/wp-includes/template-loader.php on line 7

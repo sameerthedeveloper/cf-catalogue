@@ -1,0 +1,254 @@
+DATABASE SUMMARY
+================
+
+Post Types Breakdown:
+  page: 36
+  elementor_library: 17
+  wpcf7_contact_form: 2
+  attachment: 809
+  product: 174
+  wp_global_styles: 1
+  elementor-hf: 10
+  mc4wp-form: 1
+  nav_menu_item: 66
+  audib-breadcrumb: 7
+  revision: 1124
+  custom_css: 1
+  wc-quote-rules: 1
+  addify_rfq: 1
+  wp_navigation: 1
+  shop_order: 6
+
+Published Items:
+  page: 35
+  elementor_library: 17
+  wpcf7_contact_form: 2
+  product: 172
+  wp_global_styles: 1
+  elementor-hf: 10
+  mc4wp-form: 1
+  nav_menu_item: 66
+  audib-breadcrumb: 7
+  custom_css: 1
+  wc-quote-rules: 1
+  addify_rfq: 1
+  wp_navigation: 1
+
+================
+PUBLISHED PAGES
+================
+ID: 2 | Title: Sample Page | Slug: sample-page
+ID: 10 | Title: Shop | Slug: shop
+ID: 11 | Title: Cart | Slug: cart
+ID: 12 | Title: Checkout | Slug: checkout
+ID: 13 | Title: My account | Slug: my-account
+ID: 15 | Title: Wishlist | Slug: wishlist
+ID: 734 | Title: Icons | Slug: icons
+ID: 864 | Title: Blog | Slug: blog
+ID: 1065 | Title: About us | Slug: about-us
+ID: 1067 | Title: FAQs | Slug: faqs
+ID: 1069 | Title: Contact | Slug: contact
+ID: 6381 | Title: Cart | Slug: cart-2
+ID: 6382 | Title: Checkout | Slug: checkout-2
+ID: 6383 | Title: My account | Slug: my-account-2
+ID: 6385 | Title: Wishlist | Slug: wishlist-2
+ID: 7012 | Title: Gallery | Slug: gallery
+ID: 7230 | Title: Enquiry Cart | Slug: enquiry-cart
+ID: 7234 | Title: Request a Quote | Slug: request-a-quote
+ID: 7247 | Title: Explore | Slug: explore
+ID: 7367 | Title: Shop | Slug: shop-all
+ID: 7666 | Title: Terms and conditions | Slug: terms-and-conditions
+ID: 7685 | Title: Privacy Policy | Slug: privacy-policy
+ID: 7809 | Title: new arrivals | Slug: new-arrivals
+ID: 7852 | Title: Shipping Policy | Slug: shipping-policy
+ID: 8020 | Title: Dealer | Slug: dealer
+ID: 8113 | Title: Coimbatore | Slug: coimbatore
+ID: 8590 | Title: Loudspeakers | Slug: loudspeakers
+ID: 8599 | Title: Aurender | Slug: aurender
+ID: 8601 | Title: Integrated Amplifier | Slug: integrated-amplifier
+ID: 8606 | Title: Digital Output Series | Slug: digital-output-series
+ID: 8608 | Title: Analog Output Series | Slug: analog-output-series
+ID: 8609 | Title: Aurender Content Server (ACS)Series | Slug: aurender-content-server-acsseries
+ID: 8610 | Title: Precision Master  Clock/Word Clock | Slug: precision-master-clock-word-clock
+ID: 8611 | Title: Audiophile Accessories | Slug: audiophile-accessories
+ID: 8817 | Title: Electronics | Slug: electronics
+
+================
+PUBLISHED PRODUCTS
+================
+ID: 70 | Title: ProAc Centre Voice | Slug: proac-centre-voice
+ID: 121 | Title: ProAc Tablette Ten Signature | Slug: proac-tablette-ten-signature
+ID: 123 | Title: ProAc Tablette Ten | Slug: proac-tablette-ten
+ID: 125 | Title: KII THREE BXT system | Slug: kii-three-bxt-system
+ID: 130 | Title: KII THREE system | Slug: kii-three-system
+ID: 6613 | Title: ProAc Response DB THREE | Slug: proac-response-db-three
+ID: 6636 | Title: ProAc Response TWO | Slug: proac-response-two
+ID: 6637 | Title: ProAc Response DT8 | Slug: proac-response-dt8
+ID: 6638 | Title: ProAc Response D20 | Slug: proac-response-d20
+ID: 6639 | Title: ProAc Response D48 | Slug: proac-response-d48
+ID: 6655 | Title: ProAc Response K1 | Slug: proac-response-k1
+ID: 6660 | Title: ProAc Response K6 Signature | Slug: proac-response-k6-signature
+ID: 6664 | Title: Audio Vector QR 7 | Slug: audio-vector-qr-7
+ID: 6669 | Title: Audio Vector QR 5 | Slug: audio-vector-qr-5
+ID: 6673 | Title: Audio Vector QR C | Slug: audio-vector-qr-c
+ID: 6677 | Title: Audio Vector QR Sub | Slug: audio-vector-qr-5-copy
+ID: 6681 | Title: Audio Vector QR Wall | Slug: audio-vector-qr-wall
+ID: 6682 | Title: Audio Vector R C Signature | Slug: audio-vector-r-c-signature
+ID: 6686 | Title: Audio Vector R C Arrete | Slug: audio-vector-r-c-arrete
+ID: 6720 | Title: System Audio Saxo 60 | Slug: system-audio-saxo-60
+ID: 6724 | Title: System Audio Saxo 10 | Slug: system-audio-saxo-10
+ID: 6728 | Title: System Audio Saxo 6 | Slug: system-audio-saxo-6
+ID: 6732 | Title: System Audio Legend Sub 12 | Slug: system-audio-legend-sub-12
+ID: 6733 | Title: System Audio Legend 10 | Slug: system-audio-legend-10
+ID: 6740 | Title: MJ Acoustics HENLEY | Slug: mj-acoustics-henley
+ID: 6742 | Title: MJ Acoustics Ref 400-SR | Slug: mj-acoustics-ref-400-sr
+ID: 6745 | Title: Octave HP300 SE | Slug: octave-hp300-se
+ID: 6749 | Title: Octave HP700 SE | Slug: octave-hp700-se
+ID: 6754 | Title: Octave V40 SE | Slug: octave-v40-se
+ID: 6758 | Title: Octave V70 SE | Slug: octave-v70-se
+ID: 6763 | Title: Octave MRE 220 (Pair) | Slug: octave-mre-220-pair
+ID: 6767 | Title: Lumin X1 | Slug: lumin-x1
+ID: 6775 | Title: Lumin U2 | Slug: lumin-u2
+ID: 6779 | Title: Lumin U2 MINI | Slug: lumin-u2-mini
+ID: 6784 | Title: Hifi Rose RS150B | Slug: hifi-rose-rs150b
+ID: 6788 | Title: Hifi Rose RS250A | Slug: hifi-rose-rs250a
+ID: 6793 | Title: Hifi Rose RS201E | Slug: hifi-rose-rs201e
+ID: 6799 | Title: Hifi Rose RS520 | Slug: hifi-rose-rs520
+ID: 6803 | Title: ATC SCM200ASL PRO | Slug: atc-scm200asl-pro
+ID: 6807 | Title: SCM7 | Slug: atc-hts40
+ID: 6824 | Title: Lumin D3 | Slug: lumin-d3
+ID: 6944 | Title: Signature 8KHDMI (15m) | Slug: signature-8khdmi-15m
+ID: 6947 | Title: Signature 8KHDMI (3m) | Slug: signature-8khdmi-3m
+ID: 6948 | Title: Velox 8K HDMI (15m) cable | Slug: velox-8k-hdmi-15m-cable
+ID: 6952 | Title: Velox 8KHDMI (2m) | Slug: velox-8khdmi-2m
+ID: 6954 | Title: Octave V110 SE | Slug: octave-v110-se
+ID: 6959 | Title: Octave V70 Class A | Slug: octave-v70-class-a
+ID: 7250 | Title: LuminP1 | Slug: luminp1
+ID: 7300 | Title: DMP-A6 Gen 2 | Slug: ever-solo-dmp-a6
+ID: 7885 | Title: DMP-A6 (Master Edition) Gen 2 | Slug: eversolo-dmp-a6-master-edition-digital-audio-music-streamer
+ID: 7914 | Title: DMP-A8 | Slug: eversolo-dmp-a8-music-streamer
+ID: 8062 | Title: OOR - the headphone amplifier | Slug: oor
+ID: 8065 | Title: ERCO Gen2 | Slug: erco
+ID: 8071 | Title: HYPSOS | Slug: hypsos
+ID: 8074 | Title: HYPSOS DUAL | Slug: hypsos-dual-hybrid-power-system
+ID: 8076 | Title: WANDLA | Slug: wandla
+ID: 8077 | Title: WANDLA | Slug: wandla-2
+ID: 8342 | Title: DMP-A10 | Slug: dmp-a10
+ID: 8353 | Title: SCM11 | Slug: scm11
+ID: 8354 | Title: SCM19 | Slug: scm19
+ID: 8355 | Title: SCM19A | Slug: scm19a
+ID: 8363 | Title: SCM40 | Slug: scm40
+ID: 8364 | Title: SCM40A | Slug: scm40a
+ID: 8368 | Title: SCM50 | Slug: scm50
+ID: 8370 | Title: SCM100 | Slug: scm100
+ID: 8372 | Title: SCM150 | Slug: scm150
+ID: 8374 | Title: SCM20ASLT | Slug: scm20aslt
+ID: 8377 | Title: SCM50SLT | Slug: scm50slt
+ID: 8379 | Title: SCM100ASLT | Slug: scm100aslt
+ID: 8381 | Title: SCM150ASLT | Slug: scm150aslt
+ID: 8383 | Title: SCM200ASLT | Slug: scm200aslt
+ID: 8385 | Title: SCM300ASLT | Slug: scm300aslt
+ID: 8387 | Title: SCM20ASL LE | LIMITED EDITION | Slug: scm20asl-le-limited-edition
+ID: 8389 | Title: SCM50SE | Slug: scm50se
+ID: 8391 | Title: SCM100SE | Slug: scm100se
+ID: 8393 | Title: SCM150SE | Slug: scm150se
+ID: 8395 | Title: C1C | Slug: c1c
+ID: 8397 | Title: C3C | Slug: c3c
+ID: 8398 | Title: C4CA | Slug: c4ca
+ID: 8400 | Title: C6C | Slug: c6c
+ID: 8402 | Title: C1 Sub Mk2 | Slug: c1-sub-mk2
+ID: 8404 | Title: C4 Sub Mk2 | 12" SUBWOOFER | Slug: c4-sub-mk2-12-subwoofer
+ID: 8406 | Title: C6 Sub | Slug: c6-sub
+ID: 8408 | Title: HTS7 On Wall Speaker | Slug: hts7-on-wall-speaker
+ID: 8412 | Title: HTS11 On Wall Speaker | Slug: hts11-on-wall-speaker
+ID: 8413 | Title: HTS40 On Wall Speaker | Slug: hts40-on-wall-speaker
+ID: 8414 | Title: SCM50 Anniversary | Slug: scm50-anniversary
+ID: 8441 | Title: CDA2 Mk2 – CD DAC Pre-Amplifier | Slug: cda2-mk2-cd-dac-pre-amplifier
+ID: 8443 | Title: CD2 – CD Player | Slug: cd2-cd-player
+ID: 8446 | Title: CDA2 Mk2 – CD DAC Pre-Amplifier | Slug: cda2-mk2-cd-dac-pre-amplifier-2
+ID: 8448 | Title: CA2 – Stereo Pre-Amplifier | Slug: ca2-stereo-pre-amplifier
+ID: 8451 | Title: SCA2 – Discrete Stereo Pre-Amplifier | Slug: sca2-discrete-stereo-pre-amplifier
+ID: 8453 | Title: P1 – Dual-Mono Power Amplifier | Slug: p1-dual-mono-power-amplifier
+ID: 8455 | Title: P2 – Dual-Mono Power Amplifier | Slug: p2-dual-mono-power-amplifier
+ID: 8459 | Title: SIA2-100 Stereo Integrated Amplifier | Slug: sia2-100-stereo-integrated-amplifier
+ID: 8461 | Title: P4 | Slug: p4
+ID: 8465 | Title: SCM12 Pro | Slug: scm12-pro
+ID: 8472 | Title: SCM12i Pro (Install) | Slug: scm12i-pro-install
+ID: 8478 | Title: SCM20PSL Pro | Slug: scm20psl-pro
+ID: 8485 | Title: SCM20ASL Pro | Slug: scm20asl-pro
+ID: 8492 | Title: SCM25A Pro Mk2 | Slug: scm25a-pro-mk2
+ID: 8498 | Title: SCM45A Pro | Slug: scm45a-pro
+ID: 8504 | Title: SCM50ASL Pro | Slug: scm50asl-pro
+ID: 8510 | Title: SCM100ASL Pro | Slug: scm100asl-pro
+ID: 8518 | Title: SCM110ASL Pro | Slug: scm110asl-pro
+ID: 8524 | Title: SCM150ASL Pro | Slug: scm150asl-pro
+ID: 8531 | Title: SCM200ASL Pro | Slug: scm200asl-pro
+ID: 8537 | Title: SCM300ASL Pro | Slug: scm300asl-pro
+ID: 8543 | Title: SCS70 Pro | Slug: scs70-pro
+ID: 8551 | Title: SCM0.1/15SL Pro | Slug: scm0-1-15sl-pro
+ID: 8555 | Title: P4 | Slug: p4-2
+ID: 8557 | Title: P1 Pro – Dual-Mono Power Amplifier | Slug: p1-pro-dual-mono-power-amplifier
+ID: 8562 | Title: P2 Pro – Dual-Mono Power Amplifier | Slug: p2-pro-dual-mono-power-amplifier
+ID: 8566 | Title: AP20 | Slug: ap20
+ID: 8569 | Title: N30SA | Slug: n30sa
+ID: 8573 | Title: N20 | Slug: n20
+ID: 8574 | Title: N200 | Slug: n200
+ID: 8575 | Title: N150 | Slug: n150
+ID: 8576 | Title: A30 | Slug: a30
+ID: 8577 | Title: A20 | Slug: a20
+ID: 8578 | Title: A15 | Slug: a15
+ID: 8579 | Title: A200 | Slug: a200
+ID: 8580 | Title: A1000 | Slug: a1000
+ID: 8581 | Title: ACS10 | Slug: acs10
+ID: 8583 | Title: MC20 | Slug: mc20
+ID: 8584 | Title: MC10 | Slug: mc10
+ID: 8585 | Title: TD100 | Slug: td100
+ID: 8586 | Title: UT100 | Slug: ut100
+ID: 8587 | Title: UC100 | Slug: uc100
+ID: 8834 | Title: LUMIN T3 | Slug: lumin-t3
+ID: 8843 | Title: LUMIN D2 | Slug: lumin-d2
+ID: 8851 | Title: Upgraded Power Supply | Slug: upgraded-power-supply
+ID: 8862 | Title: LUMIN REMOTE | Slug: lumin-remote
+ID: 8872 | Title: LUMIN L2 | Slug: lumin-l2
+ID: 8902 | Title: RA280 Integrated Amplifier | Slug: ra280-integrated-amplifier
+ID: 8916 | Title: RS130 Network Transport | Slug: rs130-network-transport
+ID: 8926 | Title: RD160 | Slug: rd160
+ID: 8944 | Title: AMP-F10 | Slug: amp-f10
+ID: 8957 | Title: AMP-F2 | Slug: amp-f2
+ID: 8975 | Title: WANDLA HP | Slug: wandla-hp
+ID: 8984 | Title: LUMIN L2 4TB | Slug: lumin-l2-4tb
+ID: 8985 | Title: LUMIN L2 8TB | Slug: lumin-l2-8tb
+ID: 8990 | Title: LUMIN AMP | Slug: lumin-amp
+ID: 8999 | Title: RS520(NEW) | Slug: rs520new
+ID: 9031 | Title: NESO bookshelf speakers | Slug: neso-bookshelf-speakers
+ID: 9033 | Title: SABERO floorstanding speakers | Slug: sabero-floorstanding-speakers
+ID: 9037 | Title: PROSPERO floorstanding speakers | Slug: prospero-floorstanding-speakers
+ID: 9039 | Title: TELESTO floorstanding speakers | Slug: telesto-floorstanding-speakers
+ID: 9041 | Title: JUPITER floorstanding speakers | Slug: jupiter-floorstanding-speakers
+ID: 9043 | Title: MINI GALAXSIS V horn speaker | Slug: mini-galaxsis-v-horn-speaker
+ID: 9045 | Title: Monitor#Eins horn loudspeaker | Slug: monitoreins-horn-loudspeaker
+ID: 9047 | Title: ARION floorstanding speakers | Slug: arion-floorstanding-speakers
+ID: 9049 | Title: HI-LINE column speakers | Slug: hi-line-column-speakers
+ID: 9051 | Title: HI-LINE 2.1 Stereo Set | Slug: hi-line-2-1-stereo-set
+ID: 9055 | Title: HI-LINE center speaker | Slug: hi-line-center-speaker
+ID: 9057 | Title: HI-LINE Surround Expansion Set | Slug: hi-line-surround-expansion-set
+ID: 9061 | Title: TERIUS high-end speakers | Slug: terius-high-end-speakers
+ID: 9063 | Title: KHIDUR high-end speakers | Slug: khidur-high-end-speakers
+ID: 9065 | Title: NANDUR High End Speakers | Slug: nandur-high-end-speakers
+ID: 9067 | Title: PALUM high-end speakers | Slug: palum-high-end-speakers
+ID: 9069 | Title: MARIDUR high-end speakers | Slug: maridur-high-end-speakers
+ID: 9071 | Title: HALO I – Cinema Set | Slug: halo-i-cinema-set
+ID: 9075 | Title: HALO III – Cinema Set | Slug: halo-iii-cinema-set
+ID: 9077 | Title: NOVA Center Speaker | Slug: nova-center-speaker
+ID: 9082 | Title: CENTER CINEMA – Center Speaker | Slug: center-cinema-center-speaker
+ID: 9084 | Title: TRITON effect speakers | Slug: triton-effect-speakers
+ID: 9086 | Title: TRITON CINEMA effect speakers | Slug: triton-cinema-effect-speakers
+ID: 9088 | Title: KOMET height speakers | Slug: komet-height-speakers
+ID: 9090 | Title: TERRA I Subwoofer | Slug: terra-i-subwoofer
+ID: 9094 | Title: TERRA III subwoofer | Slug: terra-iii-subwoofer
+ID: 9119 | Title: RS451 | Slug: rs451
+ID: 9126 | Title: T8 | Slug: t8
+
+================
+PUBLISHED POSTS
+================

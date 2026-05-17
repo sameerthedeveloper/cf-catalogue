@@ -1,0 +1,23 @@
+.elementor-7247 .elementor-element.elementor-element-fb4700b:not(.elementor-motion-effects-element-type-background), .elementor-7247 .elementor-element.elementor-element-fb4700b > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://www.cinemafocus.in/wp-content/uploads/2023/09/home.jpg");background-position:center center;}.elementor-7247 .elementor-element.elementor-element-fb4700b{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0%;margin-bottom:0%;padding:230px 0px 230px 0px;}.elementor-7247 .elementor-element.elementor-element-fb4700b > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-7247 .elementor-element.elementor-element-b67b1d9 .woocommerce-breadcrumb{color:#FFFFFF;font-size:45px;text-align:center;}.elementor-7247 .elementor-element.elementor-element-b67b1d9 .woocommerce-breadcrumb > a{color:#FFFFFF;}.elementor-7247 .elementor-element.elementor-element-0f2722b{margin-top:5%;margin-bottom:0%;}.elementor-7247 .elementor-element.elementor-element-a3e675f > .elementor-element-populated{border-style:solid;border-width:2px 2px 2px 2px;border-color:#F6F6F6;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:0% 5% 0% 0%;--e-column-margin-right:5%;--e-column-margin-left:0%;}.elementor-7247 .elementor-element.elementor-element-a3e675f > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-7247 .elementor-element.elementor-element-44332de > .elementor-element-populated{border-style:solid;border-width:2px 2px 2px 2px;border-color:#F6F6F6;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-7247 .elementor-element.elementor-element-44332de > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-7247 .elementor-element.elementor-element-721598e.elementor-wc-products  ul.products{grid-column-gap:20px;grid-row-gap:40px;}.elementor-7247 .elementor-element.elementor-element-721598e.elementor-wc-products ul.products li.product span.onsale{display:block;}:root{--page-title-display:none;}@media(min-width:768px){.elementor-7247 .elementor-element.elementor-element-a3e675f{width:25%;}.elementor-7247 .elementor-element.elementor-element-44332de{width:74.666%;}}@media(max-width:1024px){.elementor-7247 .elementor-element.elementor-element-721598e.elementor-wc-products  ul.products{grid-column-gap:20px;grid-row-gap:40px;}}@media(max-width:767px){.elementor-7247 .elementor-element.elementor-element-721598e.elementor-wc-products  ul.products{grid-column-gap:20px;grid-row-gap:40px;}}/* Start custom CSS for sidebar, class: .elementor-element-68f1c05 */.cat-item
+{
+    font-size:14px !important;
+}
+.brand-item
+{
+    font-size:14px !important;
+}/* End custom CSS */
+/* Start custom CSS */#page .site-content {
+  margin-top: 0px;
+
+}
+.dropdown-sidebar {
+  display: none !important;
+}
+#woocommerce_product_brands-1 {
+  margin-top: 50px !important;
+}
+#woocommerce_product_brands-1 {
+  margin-top: 30px !important;
+  border-top: 3px solid #f6f6f6;
+  padding-top: 20px !important;
+}/* End custom CSS */

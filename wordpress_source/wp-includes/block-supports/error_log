@@ -1,0 +1,4 @@
+[08-Feb-2026 15:54:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/jfcmhgfvncje/public_html/wp-includes/block-supports/layout.php:523
+Stack trace:
+#0 {main}
+  thrown in /home/jfcmhgfvncje/public_html/wp-includes/block-supports/layout.php on line 523

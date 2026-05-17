@@ -1,0 +1,4 @@
+[30-May-2025 05:04:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/jfcmhgfvncje/public_html/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/jfcmhgfvncje/public_html/wp-includes/theme-compat/embed.php on line 13

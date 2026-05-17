@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+
+# Ignore massive WordPress backups, plugins and cached files
+wp-content/plugins/
+wp-content/themes/
+wp-content/backups-dup-lite/
+wp-content/backups-dup-pro/
+wp-content/10web-page-cache-config/
+wp-content/upgrade/
+wp-content/mu-plugins/
